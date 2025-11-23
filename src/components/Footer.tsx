@@ -59,7 +59,7 @@ export const Footer = () => {
             <div className="text-center">
               <p className="text-sm text-background/70 mb-2">
                 An initiative of{" "}
-                <span className="font-bold text-background/90">Lifesaver Labs</span>
+                <span className="font-bold text-background/90">Lifesaver Labs™</span>
                 {" "}and{" "}
                 <span className="font-bold text-background/90">Naybor 911™</span>
               </p>
