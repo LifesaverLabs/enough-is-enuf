@@ -4,6 +4,7 @@ import { useRef } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ExternalLink } from "lucide-react";
+import bookCover from "@/assets/enough-is-enuf-book.jpg";
 
 export const BookFeature = () => {
   const ref = useRef(null);
@@ -21,23 +22,12 @@ export const BookFeature = () => {
           <Card className="border-4 border-secondary shadow-2xl overflow-hidden">
             <CardContent className="p-0">
               <div className="grid md:grid-cols-2 gap-0">
-                <div className="bg-secondary/20 p-12 flex items-center justify-center">
-                  <div className="text-center">
-                    <div className="mb-6 bg-card rounded-xl p-8 shadow-xl">
-                      <p className="text-6xl font-black text-foreground mb-2">
-                        Enough
-                      </p>
-                      <p className="text-6xl font-black text-secondary mb-4">
-                        is
-                      </p>
-                      <p className="text-6xl font-black text-foreground">
-                        Enuf
-                      </p>
-                    </div>
-                    <p className="text-2xl font-bold text-foreground">
-                      by Gabe Henry
-                    </p>
-                  </div>
+                <div className="bg-secondary/20 p-8 flex items-center justify-center">
+                  <img 
+                    src={bookCover} 
+                    alt="Enough is Enuf book cover showing the evolution from 'enough' to 'enuf' with crossed-out variations" 
+                    className="max-w-full h-auto rounded-lg shadow-2xl"
+                  />
                 </div>
                 
                 <div className="p-12 flex flex-col justify-center bg-card">
