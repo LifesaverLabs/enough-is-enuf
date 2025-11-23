@@ -62,7 +62,7 @@ export const Resources = () => {
               <div className="aspect-[9/16] md:aspect-video bg-foreground/5 relative">
                 <iframe
                   className="w-full h-full"
-                  src={`https://www.youtube.com/embed/${featuredVideo.videoId}?rel=0&modestbranding=1&color=white`}
+                  src={`https://www.youtube-nocookie.com/embed/${featuredVideo.videoId}?rel=0&modestbranding=1&color=white`}
                   title={featuredVideo.title}
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
