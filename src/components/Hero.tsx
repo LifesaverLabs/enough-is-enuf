@@ -37,7 +37,7 @@ export const Hero = () => {
               English for Humans
             </h1>
             <p className="text-2xl md:text-3xl font-bold text-primary-foreground/90 mb-4">
-              Stop the spelling madness. Start the reform.
+              Simplified spelling. Simplified counting. Built for humans.
             </p>
           </motion.div>
 
