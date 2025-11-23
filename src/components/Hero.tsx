@@ -30,11 +30,14 @@ export const Hero = () => {
             transition={{ delay: 0.2, duration: 0.5 }}
             className="mb-8"
           >
+            <div className="text-5xl md:text-7xl font-black text-primary-foreground/80 mb-4 leading-tight">
+              Enough is Enuf
+            </div>
             <h1 className="text-6xl md:text-8xl font-black text-primary-foreground mb-6 leading-tight">
               English for Humans
             </h1>
             <p className="text-2xl md:text-3xl font-bold text-primary-foreground/90 mb-4">
-              Why complicate when we can simplify?
+              Stop the spelling madness. Start the reform.
             </p>
           </motion.div>
 
