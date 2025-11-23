@@ -78,7 +78,16 @@ export const Resources = () => {
                 <div className="bg-accent/10 border border-accent/30 rounded-lg p-4 text-sm">
                   <p className="text-muted-foreground">
                     <span className="font-semibold text-foreground">Note for visitors in restricted regions:</span> YouTube is blocked in some countries including China. 
-                    We encourage community members to mirror this content on accessible platforms like Bilibili or WeChat Video.
+                    We encourage community members to mirror this content on accessible platforms like Bilibili or WeChat Video. 
+                    View our{" "}
+                    <a 
+                      href="https://github.com/LifesaverLabs/english-for-humans" 
+                      target="_blank" 
+                      rel="noopener noreferrer"
+                      className="font-semibold text-primary hover:text-primary/80 underline transition-colors"
+                    >
+                      open source GitHub repository
+                    </a>.
                   </p>
                 </div>
               </div>
