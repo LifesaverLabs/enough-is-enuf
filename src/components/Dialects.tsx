@@ -25,11 +25,11 @@ const dialects = [
   {
     name: "Blessed Dialect",
     icon: Heart,
-    description: "Borlaug Less Educational Dialect—designed for the wounded and for achieving species-scale educational achievements. A language of calmunity and civic achievement.",
+    description: "Borlaug Less Educational Dialect (BLED)—the youngest and most flexible variant, designed for the wounded and for achieving species-scale educational achievements. As a relative newborn, it's the easiest dialect to evolve through valuable, consensus-driven proposals that support fundamental human needs.",
     url: "https://BlessedDialect.org",
     color: "text-accent",
     bgColor: "bg-accent/10",
-    subtitle: "BLED: A Language for the Future"
+    subtitle: "BLED: Most Open to Change"
   }
 ];
 
@@ -115,10 +115,18 @@ export const Dialects = () => {
                 Language reform isn't about control—it's about freedom. Freedom from arbitrary complexity. 
                 Freedom to learn faster. Freedom to communicate more clearly across borders and cultures.
               </p>
-              <p className="text-lg text-muted-foreground leading-relaxed">
+              <p className="text-lg text-muted-foreground leading-relaxed mb-4">
                 Through spirited community linguistic debates, we chart new directions without falling 
                 into dystopian traps. This is language by the people, for the people.
               </p>
+              <div className="bg-primary/5 border border-primary/20 rounded-lg p-6 mt-6">
+                <p className="text-base text-muted-foreground leading-relaxed">
+                  <span className="font-bold text-foreground">Note on flexibility:</span> While all three dialects 
+                  welcome thoughtful proposals, Blessed Dialect—as the youngest and least traditional—offers the 
+                  most agility for consensus-driven change when proposals are valuable and supportive of fundamental 
+                  needs right now.
+                </p>
+              </div>
             </CardContent>
           </Card>
         </motion.div>
