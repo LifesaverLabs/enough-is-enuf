@@ -1,73 +1,58 @@
-# Welcome to your Lovable project
+# English for Humans
 
-## Project info
+A movement advocating for sensible spelling reform across English-speaking communities worldwide.
 
-**URL**: https://lovable.dev/projects/fb7bf26b-8e42-47d6-b819-cb7fd0824aad
+## The Problem
 
-## How can I edit this code?
+Why do we spell the same word two different ways? **Neighbor** (American) vs **Neighbour** (English) creates real-world complications—from emergency response systems like Neighbor SOS that need dual implementation, to L1 and L2 learners struggling with arbitrary spelling rules.
 
-There are several ways of editing your application.
+**The solution?** Simplify to **Naybor**—phonetic, intuitive, and universal.
 
-**Use Lovable**
+## The Movement
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/fb7bf26b-8e42-47d6-b819-cb7fd0824aad) and start prompting.
+English for Humans champions spelling reform across three dialect branches:
 
-Changes made via Lovable will be committed automatically to this repo.
+### 1. **English For Humans** 
+- The reformed UK King's English variant
+- Maintains British elegance while embracing sensible simplification
+- Learn more: [EnglishForHumans.org](https://EnglishForHumans.org)
 
-**Use your preferred IDE**
+### 2. **American For Humans**
+- The simplified variant exemplified by the United States and China (by total speakers)
+- Practical, direct, and accessible
+- Learn more: [AmericanForHumans.org](https://AmericanForHumans.org)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### 3. **Blessed Dialect (BLED)**
+- **B**orlaug **L**ess **E**ducational **D**ialect
+- Designed for species-scale educational achievements and calmunity⁵ cohesion
+- The youngest and most flexible dialect, open to consensus-driven change
+- A language of and for the wounded (blessé/blessée)
+- Learn more: [BlessedDialect.org](https://BlessedDialect.org)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## Core Principles
 
-Follow these steps:
+- **International Collaboration**: We welcome contributions from anyone, anywhere who cares about language accessibility
+- **Calmunity⁵ Cohesion**: Change happens through community consensus and respect
+- **Staged Transitions**: Technology-supported, gradual reform—from debate to coordinated action
+- **Not Orwellian**: Language by the people, for the people—liberating, not controlling
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## Featured Resources
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+- **Book**: "Enough is Enuf" by Gabe Henry—a groundbreaking case for spelling reform
+- **Research**: Educational studies on spelling complexity and literacy development
+- **Community**: Open discussions on valuable proposals supporting fundamental human needs
 
-# Step 3: Install the necessary dependencies.
-npm i
+## Why Reform Matters
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- **Emergency Response**: Simplifies critical systems (Neighbor SOS and similar platforms)
+- **Education**: Accelerates learning for children and adults
+- **Global Communication**: Bridges the Atlantic divide in spelling
+- **Logical Consistency**: Phonetic spelling that makes sense
 
-**Edit a file directly in GitHub**
+## Get Involved
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+This is a global movement. Whether you're a linguist, educator, developer, or simply care about making language more accessible—your voice matters. We especially welcome proposals for Blessed Dialect, which as the youngest variant offers the most flexibility for valuable, consensus-driven changes.
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/fb7bf26b-8e42-47d6-b819-cb7fd0824aad) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+**English isn't one language—it's three languages in a trenchcoat. Let's make all three work better for humans.**
