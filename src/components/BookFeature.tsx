@@ -56,8 +56,11 @@ export const BookFeature = () => {
                   <Button 
                     size="lg" 
                     className="bg-secondary hover:bg-secondary/90 text-secondary-foreground font-bold w-full md:w-auto"
+                    asChild
                   >
-                    Find This Book <ExternalLink className="ml-2 w-5 h-5" />
+                    <a href="https://www.worldcat.org/search?q=Enough+is+Enuf+Gabe+Henry" target="_blank" rel="noopener noreferrer">
+                      Find This Book <ExternalLink className="ml-2 w-5 h-5" />
+                    </a>
                   </Button>
                 </div>
               </div>
