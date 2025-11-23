@@ -22,7 +22,7 @@ const tools = [
   {
     icon: Keyboard,
     title: "Evolved Keyboard Layouts",
-    description: "Modern keyboards can make Unicode characters like superscripts (⁵) or special symbols (diacritics from arts and sciences) easier to type. This helps differentiate homophones if that's the direction we choose."
+    description: "Modern keyboards can make Unicode characters like superscripts (⁵) or special symbols (diacritics or symbols from arts, sciences, calmunity⁵, or religious traditions) easier to type. This helps differentiate homophones if that's the direction we choose."
   }
 ];
 
