@@ -24,7 +24,7 @@ export const Footer = () => {
               className="inline-flex items-center gap-2 text-background/80 hover:text-background transition-colors"
             >
               <Github className="w-5 h-5" />
-              <span>View on GitHub</span>
+              <span>View, Branch, Contribute, or Fork on GitHub</span>
             </a>
           </div>
 
