@@ -8,7 +8,7 @@ const benefits = [
   {
     icon: Zap,
     title: "Emergency Response",
-    description: "Neighbor SOS systems need dual coverage for Neighbor/Neighbour variants. One spelling = faster, clearer emergency codes."
+    description: "Neighbor SOS™ systems need dual coverage for Neighbor/Neighbour variants. One spelling = faster, clearer emergency codes."
   },
   {
     icon: Users,
@@ -87,7 +87,7 @@ export const Manifesto = () => {
                   </h3>
                   <p className="text-lg text-muted-foreground leading-relaxed mb-4">
                     The Neighbor/Neighbour divide isn't just academic—it's complicating critical systems like 
-                    <span className="font-bold text-foreground"> Neighbor SOS</span>, forcing dual implementation 
+                    <span className="font-bold text-foreground"> Neighbor SOS™</span>, forcing dual implementation 
                     of every emergency code variant. When seconds matter, complexity costs lives.
                   </p>
                   <p className="text-lg text-muted-foreground leading-relaxed">
