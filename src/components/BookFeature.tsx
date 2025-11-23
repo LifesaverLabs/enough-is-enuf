@@ -39,9 +39,12 @@ export const BookFeature = () => {
                     clarity, humor, and undeniable logic. If the title can prove the point, imagine 
                     what the whole book accomplishes.
                   </p>
-                  <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
+                  <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
                     "Enough is Enuf" challenges readers to question why we accept needless complexity 
                     in our most fundamental tool for communication.
+                  </p>
+                  <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
+                    The book also shows us how challenging coming to an agreement and making a transition has been, at least until now, as we now have a stronger calmunity⁵ and the support of miraculous sociotechnical change, especially with the advent of creative AI and natural language processing.
                   </p>
                   <Button 
                     size="lg" 
